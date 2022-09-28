@@ -12,6 +12,7 @@
 
 float Max(float,float) ;
 float Min(float,float) ;
+float Abs(float) ;
 float LimitToInterval(float,float,float) ;
 float RadianToDegree(float) ;
 float DegreeToRadian(float) ;
